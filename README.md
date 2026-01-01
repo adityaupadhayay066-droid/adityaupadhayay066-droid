@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on Python & C++ projects  <br>🌱 Learning AI & Machine Learning  <br>👯 Open to beginner-friendly collaborations  <br>🤝 Need help with DSA & GitHub  <br>💬 Ask me about Python & C++  <br>⚡ Dream: AI/ML expert <br>
+🔭 Working on Python & C++ projects  <br>🌱 Learning AI & Machine Learning  <br>👯 Open to beginner-friendly collaborations    <br>💬 Ask me about Python & C++  <br>⚡ Dream: AI/ML expert <br>
 
 
 # 💻 Tech Stack:
