@@ -6,21 +6,16 @@
 
 ---
 
-<details open>
-<summary><h2>🧠 About Me</h2></summary>
-
+## 🧠 About Me
 - Strong foundation in **C++, Java, Python**
 - Learning **Machine Learning & Data Science**
 - Practicing **DSA regularly**
 - Building real-world projects
 - Consistent GitHub contributor
 
-</details>
-
 ---
 
-<details>
-<summary><h2>💻 Tech Stack</h2></summary>
+## 💻 Tech Stack
 
 ### 🧑‍💻 Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -36,12 +31,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-</details>
-
 ---
 
-<details>
-<summary><h2>📊 GitHub Stats</h2></summary>
+## 📊 GitHub Stats
 
 <a href="https://github.com/adityaupadhayay066-droid">
   <img src="https://github-readme-stats.vercel.app/api?username=adityaupadhayay066-droid&show_icons=true&theme=dark&hide_border=true" />
@@ -53,29 +45,19 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityaupadhayay066-droid&theme=dark&hide_border=true)
 
-</details>
-
 ---
 
-<details>
-<summary><h2>🎯 Current Goals</h2></summary>
-
-- Master **Data Structures & Algorithms**
+## 🎯 Current Goals
+- Master **DSA**
 - Build **ML projects**
 - Contribute to **Open Source**
 - Prepare for **Internships & Placements**
 
-</details>
-
 ---
 
-<details>
-<summary><h2>📫 Connect With Me</h2></summary>
-
-- GitHub: https://github.com/adityaupadhayay066-droid  
-- Email: your_email_here@gmail.com  
-
-</details>
+## 📫 Connect With Me
+- GitHub: https://github.com/adityaupadhayay066-droid
+- Email: your_email_here@gmail.com
 
 ---
 
