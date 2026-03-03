@@ -61,4 +61,3 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=adityaupadhayay066-droid&color=blue)
