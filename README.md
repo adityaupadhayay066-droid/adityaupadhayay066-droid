@@ -55,9 +55,7 @@
 
 ---
 
-## 📫 Connect With Me
-- GitHub: https://github.com/adityaupadhayay066-droid
-- Email: adityaupadhayay066@gmail.com
+
 
 ---
 
