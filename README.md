@@ -38,6 +38,7 @@
 <a href="https://github.com/adityaupadhayay066-droid">
   <img src="https://github-readme-stats.vercel.app/api?username=adityaupadhayay066-droid&show_icons=true&theme=dark&hide_border=true" />
 </a>
+<br>
 
 <a href="https://github.com/adityaupadhayay066-droid">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaupadhayay066-droid&layout=compact&theme=dark&hide_border=true" />
