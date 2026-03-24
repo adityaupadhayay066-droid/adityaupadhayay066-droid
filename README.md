@@ -41,10 +41,9 @@
 <br>
 
 <a href="https://github.com/adityaupadhayay066-droid">
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityaupadhayay066-droid&theme=dark&hide_border=true)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaupadhayay066-droid&layout=compact&theme=dark&hide_border=true" />
 </a>
-
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityaupadhayay066-droid&theme=dark&hide_border=true)
 
 
 ---
