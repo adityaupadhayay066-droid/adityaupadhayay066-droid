@@ -1,6 +1,6 @@
 Hi I'm Aditya Upadhayay
 # 💫 About Me:
-🎓 Computer Science Student
+🎓 Computer Science Student<br>
 💻 Aspiring ML/ AI Engineer & Software Developer**
 📍 India
 🧠 About Me
