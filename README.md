@@ -1,108 +1,28 @@
-# Hi 👋, I'm Aditya Upadhayay
+<h1># Hi 👋, I'm Aditya Upadhayay</h1>
+# 💫 About Me:
+<p>🎓 Computer Science Student</p>
+<p>💻 Aspiring ML/ AI Engineer & Software Developer**</p>
+📍 India
+🧠 About Me
+Strong foundation in C++, Java, Python
+Learning Machine Learning & Data Science
+Practicing DSA regularly
+Building real-world projects
+Consistent GitHub contributor
 
-### 🚀 Aspiring AI/ML Engineer | Software Developer | CSE Student
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-upadhayay-133511388/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/AdityaUpad89088) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityaupadhayay066@gmail.com) 
 
-* 🎓 Computer Science Student from India
-* 💻 Passionate about **AI, Machine Learning & Backend Development**
-* 🧠 Learning **Data Structures & Algorithms**
-* ⚡ Building real-world projects using **FastAPI & Python**
-* 📚 Exploring **Data Science, APIs, and System Design**
-* 🔥 Consistent learner & GitHub contributor
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/aditya-upadhayay-133511388/" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="https://x.com/AdityaUpad89088" target="blank">
-<img src="https://skillicons.dev/icons?i=twitter" height="45"/>
-</a>
-
-<a href="mailto:adityaupadhayay066@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-</p>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=adityaupadhayay066-droid&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=adityaupadhayay066-droid&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=adityaupadhayay066-droid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=adityaupadhayay066-droid&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 💻 Tech Stack
-
-### Languages
-
-![Python](https://skillicons.dev/icons?i=python)
-![C++](https://skillicons.dev/icons?i=cpp)
-![Java](https://skillicons.dev/icons?i=java)
-
-### Backend & Database
-
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-
-### Frontend
-
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-
-### Data Science & Tools
-
-![Pandas](https://skillicons.dev/icons?i=python)
-![NumPy](https://skillicons.dev/icons?i=python)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-
----
-
-# 📌 Current Focus
-
-```python
-class Aditya:
-    def __init__(self):
-        self.learning = ["Machine Learning", "FastAPI", "DSA"]
-        self.languages = ["Python", "C++", "Java"]
-        self.goal = "Become an AI/ML Engineer"
-
-    def life(self):
-        return "Code • Learn • Build • Repeat"
-```
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=adityaupadhayay066-droid&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaupadhayay066-droid&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaupadhayay066-droid&layout=compact&theme=tokyonight" />
-
-</p>
-
----
-
-# 🏆 Goals for 2026
-
-* ✅ Build AI-powered projects
-* ✅ Master DSA
-* ✅ Contribute to Open Source
-* ✅ Learn Deep Learning
-* ✅ Crack top tech internships
-
----
-
-## ✨ Quote I Believe In
-
-> “Consistency beats talent when talent doesn’t work consistently.”
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adityaupadhayay066-droid&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+this is my readme of github improve ths 
