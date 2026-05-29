@@ -1,9 +1,9 @@
 <h1>Hi 👋, I'm Aditya Upadhayay</h1>
-# 💫 About Me:
+<h2>💫 About Me:</h2>
 <p>🎓 Computer Science Student</p>
-<p>💻 Aspiring ML/ AI Engineer & Software Developer**</p>
+<p>💻 Aspiring ML/ AI Engineer & Software Developer</p>
 <p>📍 India</p>
-🧠 About Me
+<h2>🧠 About Me</h2>
 <pre>
 Strong foundation in C++, Java, Python
 Learning Machine Learning & Data Science
