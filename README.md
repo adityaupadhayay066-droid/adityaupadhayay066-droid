@@ -1,15 +1,16 @@
-<h1># Hi 👋, I'm Aditya Upadhayay</h1>
+<h1>Hi 👋, I'm Aditya Upadhayay</h1>
 # 💫 About Me:
 <p>🎓 Computer Science Student</p>
 <p>💻 Aspiring ML/ AI Engineer & Software Developer**</p>
-📍 India
+<p>📍 India</p>
 🧠 About Me
+<pre>
 Strong foundation in C++, Java, Python
 Learning Machine Learning & Data Science
 Practicing DSA regularly
 Building real-world projects
 Consistent GitHub contributor
-
+</pre>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-upadhayay-133511388/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/AdityaUpad89088) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityaupadhayay066@gmail.com) 
@@ -24,5 +25,3 @@ Consistent GitHub contributor
 ---
 [![](https://komarev.com/ghpvc/?username=adityaupadhayay066-droid&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-this is my readme of github improve ths 
