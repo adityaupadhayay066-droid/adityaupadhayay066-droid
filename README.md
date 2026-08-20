@@ -26,14 +26,6 @@ BCA student building practical **AI/ML and backend projects** with Python.
 
 ---
 
-## Projects
-
-* **AI Travel Assistant** — Python • ML • FastAPI
-* **FastAPI Note App** — FastAPI • MySQL • Jinja2
-* **Sentiment Analysis App** — Python • Flask • TextBlob
-
----
-
 ## Currently Learning
 
 **Machine Learning → Deep Learning → Model Deployment**
@@ -82,6 +74,5 @@ BCA student building practical **AI/ML and backend projects** with Python.
 
 ### Building → Learning → Improving
 
-![Profile Views](https://komarev.com/ghpvc/?username=adityaupadhayay066-droid\&style=flat-square\&color=blue)
 
 </div>
