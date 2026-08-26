@@ -41,9 +41,8 @@ BCA student building practical **AI/ML and backend projects** with Python.
 <img src="https://streak-stats.demolab.com/?user=adityaupadhayay066-droid&theme=dark&hide_border=true" height="165"/>
 
 </div>
-
-<div align="center">
 <br>
+<div align="center">
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=adityaupadhayay066-droid&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="165"/>
 
